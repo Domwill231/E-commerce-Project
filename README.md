@@ -1,4 +1,5 @@
 # E-commerce-Project
+
 The purpose of this project was to build a conversion funnel with cohorts 
 in order to calculate the retention rate of the store. 
 Our conversion funnel shows how many customers viewed products online, added
